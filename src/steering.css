@@ -1,0 +1,6 @@
+.steer-options{display:flex!important;align-items:flex-end;justify-content:space-between;gap:16px;margin-top:10px}
+.steer-options>label:first-child{font-size:10px;color:#74816c}
+.steer-options select{display:block;margin-top:6px;padding:8px 10px;border:1px solid #dfe4d7;border-radius:5px;background:#fdfcf8;color:#4c624d;font-size:10px}
+.steer-options .checkbox{margin-bottom:8px!important}
+.steering-history p span{text-align:right}
+@media(max-width:780px){.steer-options{align-items:flex-start;flex-direction:column}.steer-options .checkbox{margin:0!important}.steering-history p{align-items:flex-start;flex-direction:column}.steering-history p span{margin-left:21px;text-align:left}}
