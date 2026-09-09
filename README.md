@@ -1,8 +1,30 @@
 # Opportunity Scout
 
-A local, adaptive research workspace for finding customer problems worth solving as a one-person company.
+**Find customer problems worth solving—without turning weak signals into false certainty.**
 
-Enter keywords, add optional founder context, and start a scout. It collects dated public signals, researches firsthand customer pain, checks alternatives, performs a skeptical review, and produces nine-dimensional scorecards. It can return no qualifying opportunities.
+Opportunity Scout is a local-first research workspace for solo founders. Give it a market, workflow,
+or rough direction and it traces public evidence back to real customer pain, tests whether a viable
+product could exist, and shows exactly why an opportunity qualifies—or why it does not.
+
+![Opportunity Scout research trail](docs/demo/06-research-trail.png)
+
+## Why Opportunity Scout?
+
+- **Evidence before ideas.** Every pain, workaround, buying signal, and score stays linked to its source.
+- **Skeptical by design.** Unsupported scores remain **Unknown**, deterministic gates reject weak cases,
+  and a run can finish with no qualifying opportunities.
+- **Built for a solo founder.** Research considers reachability, build scope, operating burden, founder
+  constraints, and concrete validation experiments—not just market size.
+- **Private and local-first.** Founder context, memory, reports, and research artifacts remain on your
+  machine unless you explicitly export them.
+- **Useful after the first report.** Investigate weak dimensions, redirect active research, compare
+  historical runs, record outcomes, and turn learning into explicit, reversible preferences.
+
+Enter keywords, add optional founder context, and start a scout. It gathers dated public signals,
+researches firsthand customer pain, checks alternatives and buying evidence, performs a skeptical
+review, and produces nine separate scorecards with confidence and citations.
+
+[See the product walkthrough](docs/DEMO.md)
 
 ## Run it
 
