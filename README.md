@@ -24,7 +24,8 @@ Enter keywords, add optional founder context, and start a scout. It gathers date
 researches firsthand customer pain, checks alternatives and buying evidence, performs a skeptical
 review, and produces nine separate scorecards with confidence and citations.
 
-[See the product walkthrough](docs/DEMO.md)
+[Read the documentation](https://mdesmet.github.io/scout/) or
+[see the product walkthrough](docs/DEMO.md).
 
 ## Run it
 
